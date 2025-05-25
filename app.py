@@ -175,5 +175,5 @@ elif choice == "📜 History":
 # ---------------- Footer ----------------
 st.markdown("""
     <hr>
-    <center style='color:gray;'>Made with ❤️ by ABDUL SAMAY </center>
+    <center style='color:gray;'>Made with ❤️ by ABDUL SAMAY cm</center>
 """, unsafe_allow_html=True)
